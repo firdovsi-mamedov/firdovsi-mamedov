@@ -1,9 +1,9 @@
 <img src="https://fullscale.io/blog/wp-content/uploads/2019/10/full-scale-blog-screening-experienced-php-developer.jpg" alt="">
 
-## Node.js & PHP Engineer!
+## PHP Engineer && Node.js
 
 - 📍 I’m From Ukraine (Kharkiv)
-- 💻 8+ Years Experience in PHP Development
+- 💻 7+ Years Experience in PHP Development
 - 💻 4+ Years Experience in Node.js
 - 📚 Mentor & Lecturer
 
