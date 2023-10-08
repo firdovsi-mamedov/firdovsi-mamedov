@@ -2,7 +2,7 @@
 
 ## PHP Engineer && Node.js
 
-- 📍 I’m From Ukraine (Kharkiv)
+- 📍 I’m From Georgia (Tbilisi)
 - 💻 7+ Years Experience in PHP Development
 - 💻 4+ Years Experience in Node.js
 - 📚 Mentor & Lecturer
